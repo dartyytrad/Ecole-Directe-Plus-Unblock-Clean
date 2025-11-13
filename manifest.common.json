@@ -6,14 +6,6 @@
 	"content_scripts": [
 		{
 			"matches": [
-				"https://www.ecoledirecte.com/*"
-			],
-			"js": [
-				"content-scripts/promoteEDP.js"
-			]
-		},
-		{
-			"matches": [
 				"https://*.ecole-directe.plus/*"
 			],
 			"js": [

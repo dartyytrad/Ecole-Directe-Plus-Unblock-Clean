@@ -28,11 +28,5 @@
 	"action": {
 		"default_title": "Ecole Directe Plus • Unblock",
 		"default_popup": "popup/popup.html"
-	},
-	"browser_specific_settings": {
-		"gecko": {
-			"id": "edpu-firefox-self-host@ecole-directe.plus",
-			"update_url": "https://unblock.ecole-directe.plus/updates.json"
-		}
 	}
 }
